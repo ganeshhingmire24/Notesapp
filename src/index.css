@@ -1,0 +1,6 @@
+@import "tailwindcss";
+
+body {
+  background-image: url(./assets/Background2.png);
+  background-color: beige;
+}
